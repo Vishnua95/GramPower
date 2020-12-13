@@ -1,0 +1,14 @@
+Steps to run the code : 
+
+Assignment1 : 
+	Clone the GitHub url and import in the Katalon Studio
+	Run the testsuite
+
+Assignment2 : 
+	Clone the GitHub url and import in Eclipse
+	Provide/ change - Apk name (appName), emulator name (device), url
+	Keep the Apk directly under the project folder (not inside src main/test folders)
+	Can run the project using mvn test/ run as TestNGSuite (right click on testng.xml)
+
+Assignment3 :
+	Please find attached the separate document (GramPower_Assignment3.txt)

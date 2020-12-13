@@ -1,0 +1,14 @@
+Challenges faced:
+	1. Android Studio/Appium setup. 
+	2. System slowness due to the above setup. (Having lower configuration system)
+	3. Emulator didn't start. unable to proceed.
+
+My System configurations: 
+	4 GB RAM
+	500 GB ROM
+	i3 Processor
+	Windows 10 64-bit OS
+
+Minimum system requirements required
+	i5 or i7 Processor
+	8 GB RAM

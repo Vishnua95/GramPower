@@ -1,0 +1,14 @@
+1. Jmeter (software used to evaluate performance testing)
+2. Reports can be generated in different formats like Csv, xml, Html to study the performance
+3. Using Various listeners avaialable in Jmeter, we can evaluate all the three paramaters.
+	Some of the listeners are - View Results Tree, View Results in Table, Aggregate Report, Graph Results, Summary Report
+	a. Speed
+		Response time taken for the request. Increase the thread numbers/ Ramp up Period might increase the speed. Many other factors can also be considered based on requirements.
+	b. Scalability
+		Throughput = (number of requests) / (total time). The measuring capacity of the server, or how much it can handle. Ideally, this number should be infinite, if not very high
+		Deviation - The variation from the average. This number should be zero, or very low.
+		Average Response Time * Throughput ~= Number of Threads 10-15% deviation (Acceptable)
+		Throughput must increase in proportion to the number of threads. Response time must not increase as the number of threads increases. Also Deviation must decrease for better performance.
+	c. Stability
+		How system crashes or recovers or behaves under heavy load.
+		A total number of transactions completed per request, whether its response stays steady or increases over time.
